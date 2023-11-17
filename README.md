@@ -1,4 +1,4 @@
-# laverye-fadeef
+
 # Leverrier-Faddeev Method Implementation
 
 ## Overview
